@@ -1,0 +1,114 @@
+[
+  {
+    "keyword": "Feature",
+    "line": 1,
+    "name": "Verify Bank Manager Module is working or not",
+    "tags": [],
+    "uri": "D:\\Saini Data\\protractor\\protractorExecute\\protractorExecute\\test\\features\\Bank.feature",
+    "elements": [
+      {
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "Goto Bank Manager Module",
+        "tags": [],
+        "id": "verify-bank-manager-module-is-working-or-not;goto-bank-manager-module",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "name": "I click On Bank Manager Login Button",
+            "result": {
+              "status": "passed",
+              "duration": 1362
+            },
+            "line": 4,
+            "match": {
+              "location": "Data\\protractor\\protractorExecute\\protractorExecute\\test\\steps\\BankSteps.ts:13"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "I Click On Add customer Button",
+            "result": {
+              "status": "passed",
+              "duration": 601
+            },
+            "line": 5,
+            "match": {
+              "location": "Data\\protractor\\protractorExecute\\protractorExecute\\test\\steps\\BankSteps.ts:17"
+            }
+          },
+          {
+            "arguments": [
+              {
+                "rows": [
+                  {
+                    "cells": [
+                      "firstName"
+                    ]
+                  },
+                  {
+                    "cells": [
+                      "rohit saini"
+                    ]
+                  }
+                ]
+              }
+            ],
+            "keyword": "And ",
+            "name": "I Enter First Name",
+            "result": {
+              "status": "passed",
+              "duration": 5
+            },
+            "line": 6,
+            "match": {
+              "location": "Data\\protractor\\protractorExecute\\protractorExecute\\test\\steps\\BankSteps.ts:21"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "I Enter Last Name",
+            "result": {
+              "status": "passed",
+              "duration": 777
+            },
+            "line": 9,
+            "match": {
+              "location": "Data\\protractor\\protractorExecute\\protractorExecute\\test\\steps\\BankSteps.ts:33"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "I Enter Postal code",
+            "result": {
+              "status": "passed",
+              "duration": 195
+            },
+            "line": 10,
+            "match": {
+              "location": "Data\\protractor\\protractorExecute\\protractorExecute\\test\\steps\\BankSteps.ts:37"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "I Click On Add Customer Button",
+            "result": {
+              "status": "passed",
+              "duration": 200
+            },
+            "line": 11,
+            "match": {
+              "location": "Data\\protractor\\protractorExecute\\protractorExecute\\test\\steps\\BankSteps.ts:41"
+            }
+          }
+        ]
+      }
+    ],
+    "id": "verify-bank-manager-module-is-working-or-not"
+  }
+]
