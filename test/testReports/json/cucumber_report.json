@@ -4,7 +4,7 @@
     "line": 1,
     "name": "Verify Bank Manager Module is working or not",
     "tags": [],
-    "uri": "D:\\Saini Data\\protractor\\protractorExecute\\protractorExecute\\test\\features\\Bank.feature",
+    "uri": "C:\\Users\\Amazin\\IdeaProjects\\protractorExecute\\test\\features\\Bank.feature",
     "elements": [
       {
         "keyword": "Scenario",
@@ -19,11 +19,11 @@
             "name": "I click On Bank Manager Login Button",
             "result": {
               "status": "passed",
-              "duration": 1362
+              "duration": 1499
             },
             "line": 4,
             "match": {
-              "location": "Data\\protractor\\protractorExecute\\protractorExecute\\test\\steps\\BankSteps.ts:13"
+              "location": "C:\\Users\\Amazin\\IdeaProjects\\protractorExecute\\test\\steps\\BankSteps.ts:13"
             }
           },
           {
@@ -32,11 +32,11 @@
             "name": "I Click On Add customer Button",
             "result": {
               "status": "passed",
-              "duration": 601
+              "duration": 946
             },
             "line": 5,
             "match": {
-              "location": "Data\\protractor\\protractorExecute\\protractorExecute\\test\\steps\\BankSteps.ts:17"
+              "location": "C:\\Users\\Amazin\\IdeaProjects\\protractorExecute\\test\\steps\\BankSteps.ts:17"
             }
           },
           {
@@ -60,11 +60,11 @@
             "name": "I Enter First Name",
             "result": {
               "status": "passed",
-              "duration": 5
+              "duration": 7
             },
             "line": 6,
             "match": {
-              "location": "Data\\protractor\\protractorExecute\\protractorExecute\\test\\steps\\BankSteps.ts:21"
+              "location": "C:\\Users\\Amazin\\IdeaProjects\\protractorExecute\\test\\steps\\BankSteps.ts:21"
             }
           },
           {
@@ -73,11 +73,11 @@
             "name": "I Enter Last Name",
             "result": {
               "status": "passed",
-              "duration": 777
+              "duration": 639
             },
             "line": 9,
             "match": {
-              "location": "Data\\protractor\\protractorExecute\\protractorExecute\\test\\steps\\BankSteps.ts:33"
+              "location": "C:\\Users\\Amazin\\IdeaProjects\\protractorExecute\\test\\steps\\BankSteps.ts:33"
             }
           },
           {
@@ -86,11 +86,11 @@
             "name": "I Enter Postal code",
             "result": {
               "status": "passed",
-              "duration": 195
+              "duration": 284
             },
             "line": 10,
             "match": {
-              "location": "Data\\protractor\\protractorExecute\\protractorExecute\\test\\steps\\BankSteps.ts:37"
+              "location": "C:\\Users\\Amazin\\IdeaProjects\\protractorExecute\\test\\steps\\BankSteps.ts:37"
             }
           },
           {
@@ -99,11 +99,11 @@
             "name": "I Click On Add Customer Button",
             "result": {
               "status": "passed",
-              "duration": 200
+              "duration": 293
             },
             "line": 11,
             "match": {
-              "location": "Data\\protractor\\protractorExecute\\protractorExecute\\test\\steps\\BankSteps.ts:41"
+              "location": "C:\\Users\\Amazin\\IdeaProjects\\protractorExecute\\test\\steps\\BankSteps.ts:41"
             }
           }
         ]

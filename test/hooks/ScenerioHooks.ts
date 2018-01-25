@@ -11,7 +11,7 @@ defineSupportCode(({ registerHandler, registerListener ,setDefaultTimeout }) => 
     });
 
     registerHandler("BeforeScenario", async () => {
-        await browser.manage().window().maximize();
+
         await browser.get(config.baseUrl);
 
     });
